@@ -1,2 +1,11 @@
-# offline-ludo-game-application
-Ludo Master brings classic Ludo gameplay to your mobile device, offline! Enjoy simple, intuitive controls, single and multi-player modes, and customizable settings. Challenge AI opponents with varying difficulty levels and show off your skills on stunning graphics. Download now and play anywhere, anytime, without needing an internet connection.
+# ludo_offline
+Offline ludo game developed in android studio
+
+
+Hello Guy(s),
+
+Thanks for considering a look here, You can find a simple android ludo game developed in android studio. This is just sample project to illustrate canvas in android with threading for game development. 
+
+This is 2D game developed for a simple stat of game development in android studio. Please go through code and you can understand yourself. If you still face any issues then do post issues and I will try to solve it.
+
+Happy coding!
